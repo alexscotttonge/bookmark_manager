@@ -8,5 +8,7 @@ gem 'data_mapper'
 gem 'dm-postgres-adapter'
 gem 'capybara'
 gem 'rspec'
+gem 'sinatra'
 
+# dm-migrations
 # gem "rails"
