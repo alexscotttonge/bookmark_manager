@@ -1,3 +1,5 @@
+
+
 feature 'list of links on homepage' do
   scenario 'links are displayed on the homepage' do
     # We can use `.create`, which we used in irb to make a Student, within our test!
